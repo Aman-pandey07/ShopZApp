@@ -20,5 +20,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "ShopZ App"
-include(":app")
- 
+include(":presentation")
+include(":data")
+include(":domain")
